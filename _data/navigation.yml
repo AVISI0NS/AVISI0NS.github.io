@@ -3,11 +3,11 @@
 #   new_window: false
 #   highlight: false
 - name: About
-  link: /blog/
+  link: /About/
   new_window: false
   highlight: false
 - name: People
-  link: /about/
+  link: /People/
   new_window: false
   highlight: false
 - name: Contact
