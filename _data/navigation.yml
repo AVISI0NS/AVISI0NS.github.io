@@ -1,7 +1,7 @@
-- name: Pricing
-  link: /pricing/
-  new_window: false
-  highlight: false
+# - name: Pricing
+#   link: /pricing/
+#   new_window: false
+#   highlight: false
 - name: Blog
   link: /blog/
   new_window: false
@@ -10,15 +10,15 @@
   link: /about/
   new_window: false
   highlight: false
-- name: Contact
-  link: /contact/
-  new_window: false
-  highlight: false
-- name: Login
-  link: /
-  new_window: true
-  highlight: false
+# - name: Contact
+#   link: /contact/
+#   new_window: false
+#   highlight: false
+# - name: Login
+#   link: /
+#   new_window: true
+#   highlight: false
 - name: Sign Up
-  link: /
+  link: "https://www.figma.com/proto/iIPt0n2ygVztEzshEM5JTB/Wireframe-Kit-(Free-Edition)-(Copy)?node-id=1392%3A457&starting-point-node-id=3518%3A190&hide-ui=1"
   new_window: true
   highlight: true
