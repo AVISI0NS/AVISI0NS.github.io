@@ -2,11 +2,11 @@
 #   link: /pricing/
 #   new_window: false
 #   highlight: false
-- name: Blog
+- name: About
   link: /blog/
   new_window: false
   highlight: false
-- name: About
+- name: People
   link: /about/
   new_window: false
   highlight: false
