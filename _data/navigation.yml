@@ -3,7 +3,7 @@
 #   new_window: false
 #   highlight: false
 - name: About
-  link: /blog/
+  link: /about/
   new_window: false
   highlight: false
 - name: People
